@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/perl:5.26.2", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cd09559be2fcf63c885f711a021ab9cf14e191a9fbadccb0808ce9cca88e73a
+size 152

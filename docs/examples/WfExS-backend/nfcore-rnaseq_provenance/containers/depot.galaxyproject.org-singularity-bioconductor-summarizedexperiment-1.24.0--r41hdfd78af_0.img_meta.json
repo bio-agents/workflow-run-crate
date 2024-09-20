@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/bioconductor-summarizedexperiment:1.24.0--r41hdfd78af_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e297e175e29caa3a0102158ac19bc0bec9dff01a992ddb647e5197f0992ade
+size 196

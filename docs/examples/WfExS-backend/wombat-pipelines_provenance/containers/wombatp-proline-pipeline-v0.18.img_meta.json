@@ -1,1 +1,3 @@
-{"registryServer": "registry-1.docker.io", "repo": "wombatp/proline-pipeline", "alias": "v0.18", "dcd": "sha256:77fcdd44749d1c4a354d33221c106de2ec68fd9c72f467ee99761eb72d8db172"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffbe10d1e7b179c95a7081a6d7bc359dd2e75b3e62a3c0fa34869908ced15a84
+size 178

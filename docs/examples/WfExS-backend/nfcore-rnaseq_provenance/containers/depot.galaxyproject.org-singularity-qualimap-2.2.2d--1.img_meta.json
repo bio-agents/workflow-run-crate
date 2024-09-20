@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/qualimap:2.2.2d--1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f40fadbb52a78d4c7874f3cc27010dcab3baca05f2b217752c815e7bb0d69341
+size 159

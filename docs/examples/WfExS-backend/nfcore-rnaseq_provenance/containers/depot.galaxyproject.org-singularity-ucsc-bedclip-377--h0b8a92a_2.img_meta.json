@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/ucsc-bedclip:377--h0b8a92a_2", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd9f026803d36b6fb224943755ddfe97c92df0dcdda2792034fa7b302f13078a
+size 169

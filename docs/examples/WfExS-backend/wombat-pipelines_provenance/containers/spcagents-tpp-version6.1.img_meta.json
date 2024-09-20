@@ -1,1 +1,3 @@
-{"registryServer": "registry-1.docker.io", "repo": "spcagents/tpp", "alias": "version6.1", "dcd": "sha256:0a1026177c691ff7188b80b83e9fe926c7d00ab1da7cbd3c13319945fccc57a6"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c00f709a03b1a3110d4f2fd31a8370ae19badac3222473309e3dd97656fc8433
+size 172

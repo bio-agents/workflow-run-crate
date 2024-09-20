@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/stringtie:2.2.1--hecb563c_2", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c22512cf72f4fccb20e21b777f29fa0e8d4a877bf6d5d81b0f6bf565dfaafe7
+size 168

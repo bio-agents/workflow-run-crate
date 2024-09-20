@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/sortmerna:4.3.4--h9ee0642_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ad8af4c775d2404b937cc44e93ad929bc04b6b2ebc752d2db980894232c81c
+size 168

@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/rseqc:3.0.1--py37h516909a_1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90bae53fe3a384fc38183c7ecb7b43bcdb60f654d08d2b62621447fdc1470e3
+size 168

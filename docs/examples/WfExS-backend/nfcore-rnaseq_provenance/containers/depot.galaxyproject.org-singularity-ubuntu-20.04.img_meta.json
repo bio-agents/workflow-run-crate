@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/ubuntu:20.04", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd187a207bfe91b7a6cb571b5c0df9bfe459913a89469cfb1c06da06cc328bb
+size 153

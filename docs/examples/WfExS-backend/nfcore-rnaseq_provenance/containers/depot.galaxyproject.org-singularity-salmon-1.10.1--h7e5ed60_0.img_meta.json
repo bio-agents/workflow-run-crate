@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/salmon:1.10.1--h7e5ed60_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:950178f5036993ba3171f369c076597cec7e547a44b0e724fe04ffd7d2fa86fd
+size 166

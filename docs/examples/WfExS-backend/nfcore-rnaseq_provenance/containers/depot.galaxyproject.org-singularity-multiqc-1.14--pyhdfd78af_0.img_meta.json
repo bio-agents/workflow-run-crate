@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/multiqc:1.14--pyhdfd78af_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3cca76a04dfdc3eb835b99dd0935ffc02a3c8b9db9cd0c39d7b9d262a6520f
+size 167

@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/umi_agents:1.1.4--py38hbff2b2d_1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1a660f8665637fb45f00dae500b7aa8baecceb1d30a4ee140fcf61415273e5
+size 173

@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/ucsc-bedgraphtobigwig:377--h446ed27_1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:487536541aa368c8cc8b3541e86e28f77e6aedd05e6964bda6efe873855b7ebf
+size 178

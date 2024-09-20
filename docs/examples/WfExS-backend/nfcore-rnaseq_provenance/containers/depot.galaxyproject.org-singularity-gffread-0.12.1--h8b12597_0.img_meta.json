@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/gffread:0.12.1--h8b12597_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3864aecdac58f23a303783e2152c0186593e58b26ce593ea036d80c653529679
+size 167

@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/bioconductor-tximeta:1.12.0--r41hdfd78af_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:066510b885c184b37b1342eae87a944b043ad5e7b2ea95602ba22cac0a97ebac
+size 183

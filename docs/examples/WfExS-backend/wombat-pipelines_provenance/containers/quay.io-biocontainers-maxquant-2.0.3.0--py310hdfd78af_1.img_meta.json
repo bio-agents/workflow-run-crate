@@ -1,1 +1,3 @@
-{"registryServer": "quay.io", "repo": "biocontainers/maxquant", "alias": "2.0.3.0--py310hdfd78af_1", "dcd": "sha256:3fddb6ffc8888e58537d07991d923f80252015463879b8719d98324ec317f7fe"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2431ff292202ff958a2ff741c47eeed34967d3be4b2ff070ff2d7c65b096b185
+size 182

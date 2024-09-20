@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/trim-galore:0.6.7--hdfd78af_0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2c214452674b29f38823b7b156a6ccbf0ea77a1c6327b5b01ba23d39da32291
+size 170

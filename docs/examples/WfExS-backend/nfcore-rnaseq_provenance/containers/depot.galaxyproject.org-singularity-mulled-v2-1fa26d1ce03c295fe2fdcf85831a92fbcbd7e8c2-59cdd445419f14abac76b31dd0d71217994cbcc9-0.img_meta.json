@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/mulled-v2-1fa26d1ce03c295fe2fdcf85831a92fbcbd7e8c2:59cdd445419f14abac76b31dd0d71217994cbcc9-0", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:342216e4fa7b02e1cac07b1340c1f722adca2cb8862a71526d0418faa217a363
+size 234

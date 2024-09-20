@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/samagents:1.16.1--h6899075_1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6709359bfbfd6be93936ff6158d92891773c13415fc5edffb915745765568ce4
+size 169

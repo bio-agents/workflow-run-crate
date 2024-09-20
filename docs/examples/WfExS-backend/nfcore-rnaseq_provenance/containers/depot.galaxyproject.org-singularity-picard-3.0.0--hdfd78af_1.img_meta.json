@@ -1,1 +1,3 @@
-{"registryServer": "depot.galaxyproject.org", "registryType": "https", "repo": "https://depot.galaxyproject.org/singularity/picard:3.0.0--hdfd78af_1", "alias": null}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5e062bf29fdc11c4ebb74375ede16ffae74f89694ec94d1fbf042d8a83f19f5
+size 165
